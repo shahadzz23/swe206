@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Page-1" id="Q2FbuiBHk5afBF6Iqohb">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-2" value="Content Creator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-5" value="Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="810" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-9" value="Watch Content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="880" as="sourcePoint" />
+            <mxPoint x="170" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-13" value="Download Content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="840" as="sourcePoint" />
+            <mxPoint x="170" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-15" value="&#xa;Manage Account Settings&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.05;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="860" as="sourcePoint" />
+            <mxPoint x="170" y="865.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KgeXTdm4OTnw-FtRKd3V-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
